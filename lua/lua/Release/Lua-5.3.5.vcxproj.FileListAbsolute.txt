@@ -1,0 +1,1 @@
+C:\Users\mrcre\source\repos\lua test\lua test\Lua-5.3.5\Release\Lua-5.3.5.lib

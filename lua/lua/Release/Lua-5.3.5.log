@@ -1,0 +1,39 @@
+﻿  lapi.c
+C:\Users\mrcre\source\repos\lua test\lua test\Lua-5.3.5\src\lapi.c(398,49): warning C4244: return: преобразование "lua_Unsigned" в "size_t", возможна потеря данных
+  lauxlib.c
+  lbaselib.c
+  lbitlib.c
+  lcode.c
+  lcorolib.c
+  lctype.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  Компиляция...
+  lopcodes.c
+  loslib.c
+  lparser.c
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lua.c
+  luac.c
+  lundump.c
+  lutf8lib.c
+  lvm.c
+  lzio.c
+luac.obj : warning LNK4006: _main уже определен в luac.obj; второе определение пропущено
+  Lua-5.3.5.vcxproj -> C:\Users\mrcre\source\repos\lua test\lua test\Lua-5.3.5\Release\Lua-5.3.5.lib
